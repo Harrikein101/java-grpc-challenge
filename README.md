@@ -10,3 +10,5 @@ As additional tasks you may extend test suite and service for following cases:
 1. Test conversion small values (check rounding)
 2. Catch exceptions if rate couldn't be found
 3. Find minimal rate with 1 cross currency limit (example: BTC->USD = 60000, BTC->LTC->USD = 58000)
+
+## See Gorkushenko Grigoriy's solution in solution.txt 
